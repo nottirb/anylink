@@ -1,0 +1,5 @@
+project: anylink
+target: fuzz
+#image: ghcr.io/nottirb/anylink:latest
+cmds:
+- cmd: /fuzz
